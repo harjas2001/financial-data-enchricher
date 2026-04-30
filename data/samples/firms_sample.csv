@@ -1,0 +1,4 @@
+IssueDate,Issuer,TickerSymbol,BusinessDescription,Nation,State,PrimaryExchangeWhereIssuers,Year of Issuer Establishment
+1999-04-01,Acme Widgets Inc,ACMW,Industrial widget manufacturer,USA,CA,NYSE,
+2001-07-14,Nordic Finance AS,NRDF,Scandinavian retail bank,Norway,,OSE,
+2005-03-22,SingTel Holdings,SING,Telecommunications provider,Singapore,,SGX,
